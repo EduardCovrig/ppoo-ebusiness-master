@@ -1,0 +1,14 @@
+1;Bruschete cu rosii;Aperitiv;18.0;180
+2;Salata Caesar;Aperitiv;29.0;250
+3;Ciorba de burta;Supa;24.0;400
+4;Supa crema de ciuperci;Supa;21.0;350
+5;Burger de vita;Fel principal;39.0;450
+6;Paste Carbonara;Fel principal;34.0;400
+7;Pizza Margherita;Fel principal;32.0;500
+8;Somon la cuptor;Fel principal;58.0;300
+9;Papanasi cu smantana;Desert;26.0;250
+10;Tiramisu;Desert;22.0;180
+11;Apa plata;Bautura;9.0;500
+12;Limonada;Bautura;16.0;400
+13;Cafea;Bautura;11.0;60
+14;Bere;Bautura;14.0;500
